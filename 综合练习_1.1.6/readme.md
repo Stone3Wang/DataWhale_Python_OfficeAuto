@@ -1,4 +1,4 @@
-题目来自Datawhale2021年6月组队学习Python办公自动化Task01
+题目来自Datawhale2021年6月组队学习Python办公自动化Task01，本解答用的中国省市自治区港澳台城市名与简称对应。
 
 https://github.com/datawhalechina/team-learning-program/tree/master/OfficeAutomation
 
