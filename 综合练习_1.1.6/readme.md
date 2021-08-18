@@ -1,4 +1,7 @@
 题目来自Datawhale2021年6月组队学习Python办公自动化Task01，本解答用的中国省市自治区港澳台城市名与简称对应。
+1.city_name.ipynb保存中国省市自治区至字典中{‘城市’：‘简称’}；其次生成字典列表，用pprint库保存至city.py文件中便于后续import cities字典列表；
+2.test.ipynb文件为主程序代码，假设您是地理老师考察同学们对中国省市自治区简称的认知，但想让尽可能地打乱题目顺序，最好每位同学每张测试卷题目顺序不同，乃至选项顺序不同（应该不会有老师这么无聊，只是为了学习python的应用设置的背景）
+3.每张test卷对应于一张answer卷，即文件顺序一一对应。
 
 https://github.com/datawhalechina/team-learning-program/tree/master/OfficeAutomation
 
